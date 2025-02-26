@@ -28,11 +28,14 @@ twitter_username: _astr0n_
 github_username:  zarcsis
 
 # Build settings
-theme: minima
-minima:
-  skin: solarized
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
+
+remote_theme: jekyll/minima
+
+minima:
+  skin: solarized
 
 # Exclude from processing.
 # The following items will not be processed, by default.
