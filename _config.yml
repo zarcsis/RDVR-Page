@@ -30,7 +30,7 @@ github_username:  zarcsis
 # Build settings
 theme: minima
 minima:
-  skin: dark
+  skin: solarized
 plugins:
   - jekyll-feed
 
