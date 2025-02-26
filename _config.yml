@@ -44,6 +44,15 @@ minima:
     - title: _astr0n_
       icon: x-twitter
       url: "https://x.com/_astr0n_"
+    - title: Mefazm512
+      icon: youtube
+      url: "https://www.youtube.com/@Mefazm512"
+    - title: zarcsis
+      icon: facebook
+      url: "https://www.facebook.com/zarcsis"
+    - title: mefazm
+      icon: linkedin
+      url: "https://www.linkedin.com/in/mefazm/"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
