@@ -19,7 +19,9 @@
 # in the templates via {{ site.myvariable }}.
 
 title: RDVR
-email: alfacentavra.a@gmail.com
+author:
+  name: Oleksii Moskalenko
+  email: alfacentavra.a@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   RDVR (Remote Desctop Virtual Reality) is a project that implement Microsoft RDP protocol for Meta Horizon OS.
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -34,7 +36,14 @@ plugins:
 remote_theme: jekyll/minima
 
 minima:
-  skin: solarized
+  skin: auto
+  social_links:
+    - title: zarcsis
+      icon: github
+      url: "https://github.com/zarcsis"
+    - title: _astr0n_
+      icon: x-twitter
+      url: "https://x.com/_astr0n_"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
