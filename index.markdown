@@ -5,7 +5,7 @@
 layout: home
 ---
 
-RDVR (Remote Desctop Virtual Reality) is a project that implement Microsoft RDP protocol for Meta Horizon OS.
+{{site.description}}
 ![Screenshot1](/images/Screenshot1.webp)
 ![Screenshot2](/images/Screenshot2.webp)
 ![Screenshot3](/images/Screenshot3.webp)
