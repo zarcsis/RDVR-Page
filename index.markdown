@@ -9,53 +9,35 @@ layout: home
 
 # Main features
 
-<details>
-    <summary>Input with Touch Plus controllers</summary>
+## Input with Touch Plus controllers
 
-    You can use your Touch Plus controllers for touch in Windows session.<br />
-    <iframe src="https://www.youtube.com/embed/mw6rxj8YeNY" title="RDVR Touch Plus controllers" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen> </iframe>
+You can use your Touch Plus controllers for touch in Windows session.
+<iframe src="https://www.youtube.com/embed/mw6rxj8YeNY" title="RDVR Touch Plus controllers" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen> </iframe>
 
-</details>
+## Input with your hands
 
-<details>
-    <summary>Input with your hands</summary>
+You can use hand tracking for touchscreen like input in Windows session.
+<iframe src="https://www.youtube.com/embed/hiB92zjWgJg" title="RDVR hand input" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen> </iframe>
 
-    You can use hand tracking for touchscreen like input in Windows session.<br />
-    <iframe src="https://www.youtube.com/embed/hiB92zjWgJg" title="RDVR hand input" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen> </iframe>
+## Mouse support
 
-</details>
+You can use bluetooth mouse connected to your headset.
+<iframe src="https://www.youtube.com/embed/pfFDqx7hZwI" title="RDVR mouse input" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen> </iframe>
 
-<details>
-    <summary>Mouse support</summary>
+## On-screen keyboard
 
-    You can use bluetooth mouse connected to your headset.<br />
-    <iframe src="https://www.youtube.com/embed/pfFDqx7hZwI" title="RDVR mouse input" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen> </iframe>
+You can use default on-screen keyboard for text input.
+<iframe src="https://www.youtube.com/embed/k2ZHqCGS6hk" title="RDVR On-screen keyboard" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen> </iframe>
 
-</details>
+## Physycall keyboard
 
-<details>
-    <summary>On-screen keyboard</summary>
+You can use bluetooth keyboard connected to your headset.
+<iframe src="https://www.youtube.com/embed/WR6zJDoN26w" title="RDVR physical keyboard" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen> </iframe>
 
-    You can use default on-screen keyboard for text input.<br />
-    <iframe src="https://www.youtube.com/embed/k2ZHqCGS6hk" title="RDVR On-screen keyboard" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen> </iframe>
+## Resizable session
 
-</details>
-
-<details>
-    <summary>Physycall keyboard</summary>
-
-    You can use bluetooth keyboard connected to your headset.<br />
-    <iframe src="https://www.youtube.com/embed/WR6zJDoN26w" title="RDVR physical keyboard" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen> </iframe>
-
-</details>
-
-<details>
-    <summary>Resizable session</summary>
-
-    You can resize your Windows session dynamically.<br />
-    <iframe src="https://www.youtube.com/embed/EYL2nO4nkao" title="RDVR Resizable session" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen> </iframe>
-
-</details>
+You can resize your Windows session dynamically.
+<iframe src="https://www.youtube.com/embed/EYL2nO4nkao" title="RDVR Resizable session" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen> </iframe>
 
 # Screenshots
 
