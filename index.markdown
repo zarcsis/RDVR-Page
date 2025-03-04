@@ -23,6 +23,8 @@ layout: home
 
 ## Resizable session
 
+<iframe src="https://www.youtube.com/embed/EYL2nO4nkao" title="RDVR Resizable session" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen> </iframe>
+
 # Screenshots
 
 ![Screenshot1](/images/Screenshot1.webp)
