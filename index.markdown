@@ -16,10 +16,12 @@ You can use your Touch Plus controllers for touch in Windows session.
 
 ## Input with your hands
 
-You can use hand tracking for touchscrin like input in Windows session.
+You can use hand tracking for touchscreen like input in Windows session.
 <iframe src="https://www.youtube.com/embed/hiB92zjWgJg" title="RDVR hand input" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen> </iframe>
 
 ## Mouse support
+
+You can use bluetooth mouse connected to your headset.
 
 ## On-screen keyboard
 
@@ -28,9 +30,11 @@ You can use default on-screen keyboard for text input.
 
 ## Physycall keyboard
 
+You can use bluetooth keyboard connected to your headset.
+
 ## Resizable session
 
-You can resize Windows session dynamically, during the session.
+You can resize your Windows session dynamically.
 <iframe src="https://www.youtube.com/embed/EYL2nO4nkao" title="RDVR Resizable session" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen> </iframe>
 
 # Screenshots
