@@ -10,7 +10,7 @@ layout: home
 # Features
 
 1. Input with Touch Plus controllers
-<iframe width="560" height="420" src="https://www.youtube.com/embed/mw6rxj8YeNY" title="RDVR Touch Plus controllers" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen> </iframe>
+<iframe src="https://www.youtube.com/embed/mw6rxj8YeNY" title="RDVR Touch Plus controllers" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen> </iframe>
 2. Mouse support
 3. On-screen keyboard
 4. Physycall keyboard
