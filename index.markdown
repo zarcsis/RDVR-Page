@@ -7,7 +7,9 @@ layout: home
 
 {{site.description}}
 
-Get the application **[here](https://www.meta.com/experiences/rdvr/28973098608955930/)**
+Get the application **[here](https://www.meta.com/experiences/rdvr/28973098608955930/)**.
+
+Get more information about Microsoft Remote Desktop **[here](https://aka.ms/rdapps)**.
 
 # Main features
 
