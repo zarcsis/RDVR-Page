@@ -23,7 +23,7 @@ author:
   name: Oleksii Moskalenko
   email: alfacentavra.a@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  RDVR (Remote Desktop Virtual Reality) RDP client for Meta Horizon OS.
+  RDVR (Remote Desktop Virtual Reality) RDP client for the Meta Horizon platform.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://rdvr.pp.ua" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: zarcsis
