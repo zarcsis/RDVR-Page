@@ -7,7 +7,7 @@ layout: home
 
 {{site.description}}
 
-Get the application **[here](https://www.meta.com/experiences/rdvr/28973098608955930/)**.
+Get the application from the **[Meta Horizon Store](https://www.meta.com/experiences/rdvr/28973098608955930/)**.
 
 Get more information about Microsoft Remote Desktop **[here](https://aka.ms/rdapps)**.
 
@@ -55,4 +55,4 @@ You can resize your Windows session dynamically.
 
 ![Screenshot5](/images/Screenshot5.webp)
 
-Get the application **[here](https://www.meta.com/experiences/rdvr/28973098608955930/)**
+Get the application from the **[Meta Horizon Store](https://www.meta.com/experiences/rdvr/28973098608955930/)**.
