@@ -64,6 +64,7 @@ I have some thougths how to improve this app.
 - Saving profiles for multiple PCs
 - Bidirectional сlipboard
 - Microphone redirection
+- Filesystem redirection
 - Mouse emulation with Touch Plus
 - Multi-monitor support
 - Remote application mode
