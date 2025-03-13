@@ -57,4 +57,17 @@ You can resize your Windows session dynamically.
 
 ![Screenshot5](/images/Screenshot5.webp)
 
+# Future improvements
+
+I have some thougths how to improve this app.
+
+- Saving profiles for multiple PCs
+- Bidirectional сlipboard
+- Microphone redirection
+- Mouse emulation with Touch Plus
+- Multi-monitor support
+- Remote application mode
+
+You're welcome to email me your suggestions!
+
 Get the application from the **[Meta Horizon Store](https://www.meta.com/experiences/rdvr/28973098608955930/)**.
