@@ -45,6 +45,11 @@ You can use bluetooth keyboard connected to your headset.
 You can resize your Windows session dynamically.
 <iframe src="https://www.youtube.com/embed/EYL2nO4nkao" title="RDVR Resizable session" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen> </iframe>
 
+## Microphone redirection
+
+You can use microphone of your headset in Windows session.
+<iframe src="https://www.youtube.com/embed/IHeSy9Y_-94" title="RDVR microphone redirection" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen> </iframe>
+
 # Screenshots
 
 ![Screenshot1](/images/Screenshot1.webp)
@@ -63,7 +68,6 @@ I have some thougths how to improve this app.
 
 - Saving profiles for multiple PCs
 - Bidirectional сlipboard
-- Microphone redirection
 - Filesystem redirection
 - Mouse emulation with Touch Plus
 - Multi-monitor support
