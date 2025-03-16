@@ -52,7 +52,7 @@ You can use microphone of your headset in Windows session.
 
 ## Storage redirection
 
-You can access headset storage during a session.
+You can access a storage on your headset directly from your PC, making it easy to transfer and manage files remotely.
 <iframe src="https://www.youtube.com/embed/zhPYs5szOAc" title="RDVR storage redirection" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen> </iframe>
 
 # Screenshots
