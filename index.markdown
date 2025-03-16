@@ -5,7 +5,8 @@
 layout: home
 ---
 
-## Seamlessly Access and Control Your Windows PC from Virtual Reality
+{{site.description}}
+Seamlessly Access and Control Your Windows PC from Virtual Reality
 
 <iframe src="https://www.youtube.com/embed/tpnQCTW_r-I" title="RDVR (Remote Desktop Virtual Reality) RDP Client for Meta Quest" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen> </iframe>
 
