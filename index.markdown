@@ -50,7 +50,7 @@ You can resize your Windows session dynamically.
 You can use microphone of your headset in Windows session.
 <iframe src="https://www.youtube.com/embed/IHeSy9Y_-94" title="RDVR microphone redirection" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen> </iframe>
 
-## Storage rediroction
+## Storage redirection
 
 You can access headset storage during a session.
 <iframe src="https://www.youtube.com/embed/zhPYs5szOAc" title="RDVR storage redirection" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen> </iframe>
