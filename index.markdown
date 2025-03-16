@@ -5,7 +5,7 @@
 layout: home
 ---
 
-# {{site.description}}
+# RDVR - Remote Desktop Client for Meta Quest 3, 3s, pro, 2 | Control Your PC in VR.
 
 ## Seamlessly Access and Control Your Windows PC from Virtual Reality
 
