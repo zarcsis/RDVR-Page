@@ -9,20 +9,15 @@
     font-size: 1rem;
     line-height: 1.5;
     border-radius: 0.25rem;
-    transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out;
     text-decoration: none;
-}
-
-.btn-primary {
-    color: #fff;
-    background-color: #007bff;
-    border: 1px solid #007bff;
-}
-
-.btn-primary:hover {
-    color: #fff;
-    background-color: #0069d9;
-    border-color: #0062cc;
+    border: 2px solid $link-base-color;
+    &:hover {
+        border-color: $link-hover-color;
+        background-color: $code-background-color;
+    }
+    &:visited {
+        border-color: $link-visited-color;
+    }
 }
 
 .site-header {
