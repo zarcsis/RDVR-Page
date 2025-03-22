@@ -8,7 +8,9 @@ layout: home
 {{site.description}}
 Control your PC remotely with Touch Plus, Bluetooth keyboard and mouse.
 
-<iframe src="https://www.youtube.com/embed/tpnQCTW_r-I" title="RDVR (Remote Desktop Virtual Reality) RDP Client for Meta Quest" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen> </iframe>
+<div class="responsive-video">
+    <iframe src="https://www.youtube.com/embed/tpnQCTW_r-I" title="RDVR (Remote Desktop Virtual Reality) RDP Client for Meta Quest" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen> </iframe>
+</div>
 
 Get the application from the Meta Horizon Store.
 
