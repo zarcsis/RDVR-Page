@@ -34,47 +34,65 @@ RDVR transforms your Meta Quest into a powerful, portable workstation—combinin
 ## Input with Touch Plus controllers
 
 You can use your Touch Plus controllers for touch in Windows session.
-<iframe src="https://www.youtube.com/embed/mw6rxj8YeNY" title="RDVR Touch Plus controllers" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen> </iframe>
+<div class="responsive-video">
+    <iframe src="https://www.youtube.com/embed/mw6rxj8YeNY" title="RDVR Touch Plus controllers" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen> </iframe>
+</div>
 
 ## Input with your hands
 
 You can use hand tracking for touchscreen like input in Windows session.
-<iframe src="https://www.youtube.com/embed/hiB92zjWgJg" title="RDVR hand input" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen> </iframe>
+<div class="responsive-video">
+    <iframe src="https://www.youtube.com/embed/hiB92zjWgJg" title="RDVR hand input" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen> </iframe>
+</div>
 
 ## Mouse support
 
 You can use bluetooth mouse connected to your headset.
-<iframe src="https://www.youtube.com/embed/pfFDqx7hZwI" title="RDVR mouse input" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen> </iframe>
+<div class="responsive-video">
+    <iframe src="https://www.youtube.com/embed/pfFDqx7hZwI" title="RDVR mouse input" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen> </iframe>
+</div>
 
 ## On-screen keyboard
 
 You can use default on-screen keyboard for text input.
-<iframe src="https://www.youtube.com/embed/k2ZHqCGS6hk" title="RDVR On-screen keyboard" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen> </iframe>
+<div class="responsive-video">
+    <iframe src="https://www.youtube.com/embed/k2ZHqCGS6hk" title="RDVR On-screen keyboard" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen> </iframe>
+</div>
 
 ## Physycall keyboard
 
 You can use bluetooth keyboard connected to your headset.
-<iframe src="https://www.youtube.com/embed/WR6zJDoN26w" title="RDVR physical keyboard" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen> </iframe>
+<div class="responsive-video">
+    <iframe src="https://www.youtube.com/embed/WR6zJDoN26w" title="RDVR physical keyboard" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen> </iframe>
+</div>
 
 ## Resizable session
 
 You can resize your Windows session dynamically.
-<iframe src="https://www.youtube.com/embed/EYL2nO4nkao" title="RDVR Resizable session" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen> </iframe>
+<div class="responsive-video">
+    <iframe src="https://www.youtube.com/embed/EYL2nO4nkao" title="RDVR Resizable session" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen> </iframe>
+</div>
 
 ## Microphone redirection
 
 You can use microphone of your headset in Windows session.
-<iframe src="https://www.youtube.com/embed/IHeSy9Y_-94" title="RDVR microphone redirection" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen> </iframe>
+<div class="responsive-video">
+    <iframe src="https://www.youtube.com/embed/IHeSy9Y_-94" title="RDVR microphone redirection" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen> </iframe>
+</div>
 
 ## Storage redirection
 
 You can access a storage on your headset directly from your PC, making it easy to transfer and manage files remotely.
-<iframe src="https://www.youtube.com/embed/zhPYs5szOAc" title="RDVR storage redirection" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen> </iframe>
+<div class="responsive-video">
+    <iframe src="https://www.youtube.com/embed/zhPYs5szOAc" title="RDVR storage redirection" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen> </iframe>
+</div>
 
 ## Clipboard redirection
 
 Use Copy-Past beetwen your PC and headset.
-<iframe src="https://www.youtube.com/embed/0hPRVMaM2-s" title="RDVR Clipboard redirection" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen> </iframe>
+<div class="responsive-video">
+    <iframe src="https://www.youtube.com/embed/0hPRVMaM2-s" title="RDVR Clipboard redirection" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen> </iframe>
+</div>
 
 # Screenshots
 
