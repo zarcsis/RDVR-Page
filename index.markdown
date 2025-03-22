@@ -12,7 +12,9 @@ Seamlessly Access and Control Your Windows PC from Virtual Reality.
 
 Get the application from the Meta Horizon Store.
 
-[Get RDVR](https://www.meta.com/experiences/rdvr/28973098608955930/){: .btn}
+<div style="text-align: center;">
+    [Get RDVR](https://www.meta.com/experiences/rdvr/28973098608955930/){: .btn}
+</div>
 
 Get more information about Microsoft Remote Desktop **[here](https://aka.ms/rdapps)**.
 
@@ -58,6 +60,11 @@ You can use microphone of your headset in Windows session.
 You can access a storage on your headset directly from your PC, making it easy to transfer and manage files remotely.
 <iframe src="https://www.youtube.com/embed/zhPYs5szOAc" title="RDVR storage redirection" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen> </iframe>
 
+## Clipboard redirection
+
+Use Copy-Past beetwen your PC and headset.
+<iframe src="https://www.youtube.com/embed/0hPRVMaM2-s" title="RDVR Clipboard redirection" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen> </iframe>
+
 # Screenshots
 
 ![Screenshot1](/images/Screenshot1.webp)
@@ -75,9 +82,9 @@ You can access a storage on your headset directly from your PC, making it easy t
 I have some thougths how to improve this app.
 
 - Saving profiles for multiple PCs
-- Bidirectional сlipboard
 - Mouse emulation with Touch Plus
 - Multi-monitor support
+- Multi-session support
 - Remote application mode
 
 You're welcome to email me your suggestions!
