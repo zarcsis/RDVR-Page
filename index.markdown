@@ -6,7 +6,7 @@ layout: home
 ---
 
 {{site.description}}
-Seamlessly Access and Control Your Windows PC from Virtual Reality.
+Control your PC remotely with Touch Plus, Bluetooth keyboard and mouse.
 
 <iframe src="https://www.youtube.com/embed/tpnQCTW_r-I" title="RDVR (Remote Desktop Virtual Reality) RDP Client for Meta Quest" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen> </iframe>
 
@@ -16,7 +16,18 @@ Get the application from the Meta Horizon Store.
     <a href="https://www.meta.com/experiences/rdvr/28973098608955930/" class="btn">Get RDVR</a>
 </div>
 
-# Main features
+Experience Windows in VR like never before with RDVR, the dedicated Remote Desktop Virtual Reality (RDP) client for the Meta Horizon platform. Seamlessly stream and interact with your PC directly from your Meta Quest headset—whether you’re working remotely or simply enjoying a more immersive computing experience.
+
+# Key Features:
+
+- **Intuitive Multi-Input Support:** Use your Touch Plus controllers or advanced hand tracking for natural, touchscreen-like interactions in your Windows session.
+- **Flexible Navigation:** Enjoy complete mouse support via Bluetooth, and choose from an on-screen keyboard or connect your physical Bluetooth keyboard for effortless text input.
+- **Dynamic Session Management:** Resize your Windows session on the fly for the perfect view, ensuring optimal productivity and comfort.
+- **Integrated Audio & File Handling:** Redirect your headset’s microphone to your PC and access your headset storage directly for streamlined file transfers.
+
+RDVR transforms your Meta Quest into a powerful, portable workstation—combining cutting-edge VR technology with the familiar interface of your PC. Discover a new realm of remote desktop computing with RDVR.
+
+# Features
 
 ## Input with Touch Plus controllers
 
