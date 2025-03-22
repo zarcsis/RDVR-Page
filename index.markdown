@@ -13,10 +13,8 @@ Seamlessly Access and Control Your Windows PC from Virtual Reality.
 Get the application from the Meta Horizon Store.
 
 <div style="text-align: center;">
-    [Get RDVR](https://www.meta.com/experiences/rdvr/28973098608955930/){: .btn}
+    <a href="https://www.meta.com/experiences/rdvr/28973098608955930/" class="btn">Get RDVR</a>
 </div>
-
-Get more information about Microsoft Remote Desktop **[here](https://aka.ms/rdapps)**.
 
 # Main features
 
@@ -89,4 +87,10 @@ I have some thougths how to improve this app.
 
 You're welcome to email me your suggestions!
 
-Get the application from the **[Meta Horizon Store](https://www.meta.com/experiences/rdvr/28973098608955930/)**.
+Get the application from the Meta Horizon Store.
+
+<div style="text-align: center;">
+    <a href="https://www.meta.com/experiences/rdvr/28973098608955930/" class="btn">Get RDVR</a>
+</div>
+
+Get more information about Microsoft Remote Desktop **[here](https://aka.ms/rdapps)**.
