@@ -94,6 +94,13 @@ Use Copy-Past beetwen your PC and headset.
     <iframe src="https://www.youtube.com/embed/0hPRVMaM2-s" title="RDVR Clipboard redirection" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen> </iframe>
 </div>
 
+## Software mouse
+
+Use your Touch Plus for mouse emulation. It may be useful in some cases when touch isn't supported (User Account Control popup)
+<div class="responsive-video">
+    <iframe src="https://www.youtube.com/embed/_wu1N304SI4" title="RDVR Software mouse" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen> </iframe>
+</div>
+
 # Screenshots
 
 ![Screenshot1](/images/Screenshot1.webp)
@@ -111,7 +118,6 @@ Use Copy-Past beetwen your PC and headset.
 I have some thougths how to improve this app.
 
 - Saving profiles for multiple PCs
-- Mouse emulation with Touch Plus
 - Multi-monitor support
 - Multi-session support
 - Remote application mode
