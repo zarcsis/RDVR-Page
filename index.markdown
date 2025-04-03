@@ -101,6 +101,13 @@ Use your Touch Plus for mouse emulation. It may be useful in some cases when tou
     <iframe src="https://www.youtube.com/embed/_wu1N304SI4" title="RDVR Software mouse" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen> </iframe>
 </div>
 
+## Multisession
+
+Add edit and remove multiple PC profiles and connect to multiple PC in the same time.
+<div class="responsive-video">
+    <iframe src="https://www.youtube.com/embed/vLkrXAEXGAQ" title="RDVR Multiple PC connection." frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen> </iframe>
+</div>
+
 # Screenshots
 
 ![Screenshot1](/images/Screenshot1.webp)
@@ -117,10 +124,10 @@ Use your Touch Plus for mouse emulation. It may be useful in some cases when tou
 
 I have some thougths how to improve this app.
 
-- Saving profiles for multiple PCs
-- Multi-monitor support
-- Multi-session support
-- Remote application mode
+- Multi-monitor support (spring 2025)
+- Copy and paste files between multiple sessions (spring 2025)
+- Quick assist mode (to be anonced)
+- Remote application mode (to be announced)
 
 You're welcome to email me your suggestions!
 
