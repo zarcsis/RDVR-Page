@@ -41,3 +41,14 @@
     height: 100%;
     z-index: 0;
 }
+
+header.site-header a.site-title {
+    display: flex;
+    align-items: center;
+}
+
+header.site-header a.site-title img {
+    height: 1.5em;
+    margin-right: 0.5em;
+    margin-bottom: 0;
+}
