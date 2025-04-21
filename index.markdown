@@ -132,6 +132,7 @@ Use multiple displays during the session. You can add and remove them dynamicall
 I have some thougths how to improve this app.
 
 - Copy and paste files between multiple sessions (spring 2025)
+- Configuration by file (spring 2025)
 - Quick assist mode (to be announced)
 - Remote application mode (to be announced)
 
