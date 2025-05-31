@@ -115,6 +115,10 @@ Use multiple displays during the session. You can add and remove them dynamicall
     <iframe src="https://www.youtube.com/embed/dhmJah84A_0" title="RDVR Multiple display connection." frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen> </iframe>
 </div>
 
+## Customization API
+
+You can configure preloaded, read-only profiles and a custom splash screen with your own logo using a config file. Simply download **[this](/files/RDVR.zip)** file, unpack it to the headset's storage, and set up the profiles and splash screen in ``config.json``
+
 # Screenshots
 
 ![Screenshot1](/images/Screenshot1.webp)
@@ -131,8 +135,7 @@ Use multiple displays during the session. You can add and remove them dynamicall
 
 I have some thougths how to improve this app.
 
-- Copy and paste files between multiple sessions (spring 2025)
-- Configuration by file (spring 2025)
+- Copy and paste files between multiple sessions (June 2025)
 - Quick assist mode (to be announced)
 - Remote application mode (to be announced)
 
